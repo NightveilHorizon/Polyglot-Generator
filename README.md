@@ -1,5 +1,5 @@
 # Polyglot-Generator
-First Polyglot Generator written in python (image file + php command)
+Polyglot Generator written in python (image file + php command)
 * The PHP command is stored within the image’s EXIF metadata.
 
 # Requierments
